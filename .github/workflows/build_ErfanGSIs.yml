@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://xzz.xiaomin.tech/MIUI%E7%BA%AF%E5%87%80%E5%AE%98%E6%94%B9Rom/20.6.11/MI%206_20.6.11_971afde1_Sodex%20Jerry_9.0.zip
+  ROM_URL: http://bigota.d.miui.com/20.6.11/miui_VIOLET_20.6.11_38335677af_10.0.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
