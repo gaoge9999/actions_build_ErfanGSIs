@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.7.14/miui_VIOLET_20.7.14_4ea985a42c_10.0.zip
+  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.QFGCNXM/miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
